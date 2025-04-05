@@ -13,3 +13,5 @@ int main() {
     printf("Area of ur boobs is = %d\n", area);
     return 0;  // tells the OS the program ended successfully
 }
+
+// didn't copy it from anywhere, used basic maths, made changes to the previous code.
